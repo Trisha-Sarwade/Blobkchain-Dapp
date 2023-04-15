@@ -1,5 +1,5 @@
 const apiUrl = "http://10.145.242.193:4000/channels/mychannel/chaincodes/fabcar?args=[%27%27]&fcn=queryAllCars&peer=peer0.org2.example.com";
-const authToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlRyaXNoYSIsIm9yZ05hbWUiOiJPcmcxIiwiaWF0IjoxNjgxMzAwMjE3LCJleHAiOjMzNjI5NjA0MzR9.evSoi5pIiFJf7YEDBf198Aw7kMGejJMgN7jvdZ5xuNE';
+const authToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlRyaXNoYSIsIm9yZ05hbWUiOiJPcmcxIiwiaWF0IjoxNjgxNTI3MTM1LCJleHAiOjMzNjM0MTQyNzB9.ffXCEF8LgAIapsrlx0uI7vNQxdhricOYu-7WvPfv8wk';
 
 fetch(apiUrl, {
         headers: {
